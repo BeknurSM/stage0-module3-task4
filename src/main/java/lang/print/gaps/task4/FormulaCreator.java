@@ -9,7 +9,7 @@ public class FormulaCreator {
         byte five = 5;
         byte seven = 7;
         byte four = 4;
-        System.out.println((nine*a^2-5*b+2+a-7)*((a+b-4*a*b)/2));
+        System.out.println((9 * a * a - 5 * b + 2 + a - 7) * ((a + b - 4 * a * b) / 2));
 
 
 
